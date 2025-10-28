@@ -1,10 +1,5 @@
 # 🔥 Antares Thermal Killer — MT6789 / Helio G99
 
-![Magisk (https://img.shields.io/badge/Magisk-Module-green?logo=magisk&logoColor=white)](https://topjohnwu.github.io/Magisk/)
-![KernelSU (https://img.shields.io/badge/KernelSU-Compatible-blue?logo=linux&logoColor=white)](https://kernelsu.org/)
-![Apache (https://img.shields.io/badge/Apache-2.0-orange?logo=apache&logoColor=white)](https://www.apache.org/)
-![Telegram (https://img.shields.io/badge/Telegram-@SuperrZiroo-blue?logo=telegram&logoColor=white)](https://t.me/SuperrZiroo)
-
 ---
 
 *Disable system thermal control and unleash the full potential of your Helio G99 device.*
@@ -69,7 +64,7 @@ To restore default system behavior:
 
 ## 👨‍💻 Developed by
 
-- @SuperrZiroo (https://github.com/SuperrZirooo)
+- [@SuperrZiroo] (https://github.com/SuperrZirooo)
 
 ---
 
@@ -82,5 +77,5 @@ To restore default system behavior:
 ## 🛰️ Stay Connected
 
 For updates and future modules:  
-📢 @SuperrZiroo on Telegram (https://t.me/ZirooDump)  
-🌐 GitHub Repository (https://github.com/SuperrZirooo/Antares)
+📢 @SuperrZiroo on [Telegram] (https://t.me/ZirooDump)  
+🌐 [GitHub Repository] (https://github.com/SuperrZirooo/Antares)
