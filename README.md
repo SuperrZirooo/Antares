@@ -14,7 +14,7 @@ Antares Thermal Killer is a lightweight Magisk module designed to completely dis
 
 Name: Antares Thermal Killer  
 Version: v1.0  
-Author: @SuperrZiroo (https://github.com/SuperrZirooo/)  
+Author: [@SuperrZiroo](https://github.com/SuperrZirooo/)  
 Supported SoC: MediaTek MT6789 (Helio G99)  
 Description: Disable system thermal services to achieve stable FPS and higher sustained performance.
 
