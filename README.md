@@ -64,7 +64,7 @@ To restore default system behavior:
 
 ## 👨‍💻 Developed by
 
-- [@SuperrZiroo] (https://github.com/SuperrZirooo)
+- [@SuperrZiroo](https://github.com/SuperrZirooo)
 
 ---
 
@@ -77,5 +77,5 @@ To restore default system behavior:
 ## 🛰️ Stay Connected
 
 For updates and future modules:  
-📢 @SuperrZiroo on [Telegram] (https://t.me/ZirooDump)  
-🌐 [GitHub Repository] (https://github.com/SuperrZirooo/Antares)
+📢 [@SuperrZiroo on Telegram](https://t.me/ZirooDump)  
+🌐 [GitHub Repository](https://github.com/SuperrZirooo/Antares)
