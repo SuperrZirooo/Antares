@@ -1,12 +1,13 @@
-# 🔥 Antares Thermal Killer — MT6789 / Helio G99
+# Antares Thermal Killer — MT6789 ( Helio G99 )
 
 ---
 
-*Disable thermal throttling and unleash the full potential of your Helio G99 device.*
-
-Antares Thermal Killer is a lightweight Magisk module designed to completely disable thermal throttling mechanisms on MT6789/Helio G99 chipsets, ensuring consistent gaming performance and ultra-smooth responsiveness — without unnecessary system limitations.
-
 ![Antares Banner](AntaresBanner.png)
+
+---
+Disable thermal throttling and unleash the full potential of your Helio G99 device.
+
+Antares Thermal Killer is a lightweight Magisk module designed to completely disable thermal throttling mechanisms on MT6789/Helio G99 chipsets, ensuring consistent gaming performance and smooth responsiveness — without unnecessary system limitations.
 
 ---
 
@@ -28,18 +29,6 @@ Description: Disable system thermal services to achieve stable FPS and higher su
 - 🧩 Plug-and-play — no configuration required.  
 - 🪶 Lightweight and clean script execution.  
 - 🔁 Fully reversible (safe uninstall script included).
-
----
-
-## 🧠 How It Works
-
-Antares Thermal Killer targets and neutralizes system processes and configuration files related to:
-- /system/bin/thermal*
-- /vendor/bin/thermal*
-- /system/etc/thermal*
-- /vendor/etc/thermal*
-
-By bypassing these thermal management components, the CPU and GPU maintain peak performance throughout demanding gaming sessions.
 
 ---
 
