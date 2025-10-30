@@ -35,7 +35,7 @@ Description: Disable system thermal services to achieve stable FPS and higher su
 ## 🧩 Installation
 
 1. Download the module .zip file.  
-2. Flash it via [Magisk Manager](https://topjohnwu.github.io/Magisk/) or [KernelSU](https://kernelsu.org/).  
+2. Flash it via [Magisk Manager](https://topjohnwu.github.io/Magisk/), [KernelSU](https://kernelsu.org/), [KernelSU Next](github.com/KernelSU-Next/KernelSU-Next), [SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra), [APacth](https://github.com/bmax121/APatch).
 3. Reboot your device.  
 4. Enjoy smoother gameplay and stable performance.
 
@@ -46,7 +46,7 @@ Description: Disable system thermal services to achieve stable FPS and higher su
 ## 🧼 Uninstallation
 
 To restore default system behavior:
-- Simply remove the module from Magisk/KSU and reboot.  
+- Simply remove the module from Magisk,KSU/Next,SukiSU,APacth and reboot.  
   *(All changes will be reverted automatically via uninstall.sh.)*
 
 ---
