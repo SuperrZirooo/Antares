@@ -2,7 +2,7 @@
 
 ---
 
-*Disable system thermal control and unleash the full potential of your Helio G99 device.*
+*Disable thermal throttling and unleash the full potential of your Helio G99 device.*
 
 Antares Thermal Killer is a lightweight Magisk module designed to completely disable thermal throttling mechanisms on MT6789/Helio G99 chipsets, ensuring consistent gaming performance and ultra-smooth responsiveness — without unnecessary system limitations.
 
